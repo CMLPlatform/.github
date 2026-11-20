@@ -24,7 +24,7 @@ Five research programmes connect the two departments:
 ## About this organization
 
 This GitHub organization holds research software, models, and datasets made by CML researchers.
-Each repository has its own README, licence, and citation information.
+You may explore our staff and research at https://cmlplatform.github.io/CML_explorer/
 
 ## Learn more
 
