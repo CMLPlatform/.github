@@ -24,7 +24,9 @@ Five research programmes connect the two departments:
 ## About this organization
 
 This GitHub organization holds research software, models, and datasets made by CML researchers.
+
 You may explore our staff and research at https://cmlplatform.github.io/CML_explorer/
+
 You can also find our Zenodo community here at https://zenodo.org/communities/cml-ie
 
 ## Learn more
